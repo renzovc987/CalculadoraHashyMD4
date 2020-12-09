@@ -1,0 +1,1 @@
+# CalculadoraHashyMD4
